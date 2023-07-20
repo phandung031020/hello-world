@@ -8,6 +8,6 @@ file new code
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1|         football      |
+|     2|       voleyboall        |
+|     3|         guitar      |
